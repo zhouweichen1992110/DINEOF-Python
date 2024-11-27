@@ -37,7 +37,7 @@ Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](
 Any commercial use should get formal permission first.
 
 ## Acknowledgments
-This code is **based on the MATLAB scripts publicly provided by shepherdmeng**[MATLAB Scripts]([https://github.com/aida-alvera/DINEOF/tree/master/Scripts/Matlab](https://github.com/shepherdmeng/Image-Data-Reconstruction-with-DINEOF)). It also references the methodologies outlined in:
+This code is **based on the MATLAB scripts publicly provided by **shepherdmeng** [MATLAB code](https://github.com/aida-alvera/DINEOF/tree/master/Scripts/Matlab](https://github.com/shepherdmeng/Image-Data-Reconstruction-with-DINEOF)). It also references the methodologies outlined in:
 - Beckers, J.M., Rixen, M., 2003. *EOF calculations and data filling from incomplete oceanographic datasets*. Journal of Atmospheric & Oceanic Technology, 20.
 - Alvera-Azcárate, A., et al., 2007. *Multivariate reconstruction of missing data in sea surface temperature, chlorophyll, and wind satellite fields*. Journal of Geophysical Research, 112.
 
