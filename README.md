@@ -24,14 +24,13 @@ The code is **BASED ON** the original MATLAB scripts provided by **Aida Alvera-A
 - Visualization.
 
 ## Main Script
-The main script for running the DINEOF algorithm is `DINEOF_MAIN_edtor.py`. This script loads the dataset, applies the DINEOF algorithm, and outputs the reconstructed data. Functions for data processing, validation, and EOF computation are located in the `utils` folder.
+The main script for running the DINEOF algorithm is `DINEOF_MAIN_edtor.py`. This script loads the dataset, applies the DINEOF algorithm, and outputs the reconstructed data. Functions for data processing, validation, and EOF computation are located in the `utils.py` .
 
-## Example: Before and After DINEOF Reconstruction
-### Before and After DINEOF
+### Example: Before and After DINEOF Reconstruction
 ![DINEOF Reconstruction](./figs/DINEOF_Comparison_TimeStep_29.png)
 
 ## Contact
-If you have any questions, feel free to contact: zhouweichen1992110@outlook.com """
+If you have any questions, feel free to contact: 'zhouweichen1992110@outlook.com'
 
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
